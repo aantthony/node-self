@@ -1,0 +1,19 @@
+{
+  "name": "self",
+  "version": "1.0.0",
+  "description": "node-self =========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aantthony/node-self.git"
+  },
+  "author": "",
+  "license": "Public Domain",
+  "bugs": {
+    "url": "https://github.com/aantthony/node-self/issues"
+  },
+  "homepage": "https://github.com/aantthony/node-self"
+}
