@@ -6,7 +6,7 @@ require() relative to the path of your module.
 ### Installation
 
 ```bash
-npm install --from-git https://github.com/aantthony/node-self.git
+npm install --save --from-git git://github.com/aantthony/node-self.git
 ```
 
 ### Usage:
