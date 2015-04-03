@@ -1,18 +1,18 @@
 node-self
 =========
 
-require() relative to the path of your module.
+require() relative to the path inside your module.
 
 ### Installation
 
 ```bash
-npm install --save --from-git git://github.com/aantthony/node-self.git
+npm install --save inside
 ```
 
 ### Usage:
 
 ```js
-var User = require('self')('lib/models/user');
+var User = require('inside')('lib/models/user');
 ```
 
 ### How does it work?
